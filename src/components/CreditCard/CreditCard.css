@@ -1,0 +1,24 @@
+.card {
+    padding: 1rem;
+    width: 23rem;
+    margin: 2rem;
+    border-radius: 30px;
+}
+.green {
+    background-color: rgb(66, 218, 167);
+}
+.grey {
+    background-color: rgb(199, 213, 209);
+}
+.gold {
+    background-color: rgb(225, 207, 72);
+}
+.expBank {
+    display: flex;
+}
+.expBank :first-child {
+    margin-right: 1rem;
+}
+img {
+    width: 4rem;
+}
